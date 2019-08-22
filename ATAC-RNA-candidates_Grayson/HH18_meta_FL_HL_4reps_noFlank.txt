@@ -1,0 +1,21 @@
+        Tissue  Species
+ck18FL1      Forelimb	Chick
+ck18FL2      Forelimb	Chick
+ck18FL3      Forelimb	Chick
+ck18FL4      Forelimb	Chick
+ck18HL1      Hindlimb	Chick
+ck18HL2      Hindlimb	Chick
+
+
+ck18HL3      Hindlimb	Chick
+ck18HL4      Hindlimb	Chick
+X583FL  Forelimb	Emu
+X595FL  Forelimb	Emu
+X707FL  Forelimb	Emu
+X710FL  Forelimb	Emu
+
+
+X583HL  Hindlimb	Emu
+X595HL  Hindlimb	Emu
+X707HL  Hindlimb	Emu
+X710HL  Hindlimb	Emu
