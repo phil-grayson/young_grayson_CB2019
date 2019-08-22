@@ -1,3 +1,4 @@
 - here I've included the files necessary to generate the final candidate list and venn diagrams from figure 5.
 - there are some hardcoded paths that you would want to change to get it to work on your machine
+- the steps to generate the atac-seq input file are described in the supplementary methods and follow the bestPractices guidelines published in Sackton et al. 2019; see https://github.com/tsackton/ratite-genomics/tree/master/08_atacseq for more information
 - if you have any issues, please reach out at phil.grayson@umanitoba.ca
