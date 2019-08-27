@@ -1,0 +1,9 @@
+	tissue
+emu_FL_LPM_1	FL_LPM
+emu_FL_LPM_23	FL_LPM
+emu_FL_LPM_8	FL_LPM
+emu_FL_Somatopleure_13	FL_somatopleure
+emu_FL_Somatopleure_53	FL_somatopleure
+emu_FL_Somatopleure_5	FL_somatopleure
+emu_FL_Splancnopleure_6	FL_splanchnopleure
+emu_FL_Splancnopleure_pool	FL_splanchnopleure

@@ -1,0 +1,10 @@
+	tissue	
+ck_FL_LPM_30	FL_LPM
+ck_FL_LPM_31	FL_LPM
+ck_FL_LPM_32	FL_LPM
+ck_FL_Somatopleure_15	FL_somatopleure
+ck_FL_Somatopleure_60	FL_somatopleure
+ck_FL_Somatopleure_63	FL_somatopleure
+ck_FL_Splancnopleure_50	FL_splanchnopleure
+ck_FL_Splancnopleure_61	FL_splanchnopleure
+ck_FL_Splancnopleure_64	FL_splanchnopleure

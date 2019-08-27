@@ -1,0 +1,3 @@
+- here I've included the 3 files referenced in the supplementary methods
+- this is part of an ongoing project and I would be happy to discuss it if you have any questions
+- my current contact is phil.grayson@umanitoba.ca
